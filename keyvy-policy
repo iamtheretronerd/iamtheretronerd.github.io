@@ -1,0 +1,80 @@
+
+  Keyvy — Privacy Policy
+
+  Last updated: 19 September 2026
+
+  The short version
+
+  Keyvy is a launcher. It runs entirely on your phone.
+
+  Keyvy has no internet permission. It cannot send anything anywhere — not your apps, not your notifications, not your contacts, not your wallpaper. There are no accounts, no analytics, no advertising, no crash reporting and no third parties. Nothing you do in Keyvy is collected, stored off your device, sold or shared, because there is no mechanism by which it could be.
+
+  Everything below is a description of what stays on your phone.
+
+  What Keyvy reads, and why
+
+  Your installed apps. Keyvy lists and searches your apps, so it reads which apps are installed and their names and icons. This is what a launcher is.
+
+  Your notifications (optional). If you grant notification access, Keyvy shows your notifications on the home screen and lets you reply to messages without opening the app. It reads the content of notifications in order to display it to you. This happens on the device, as they arrive, and nothing is kept once the notification is dismissed.
+
+  Your contacts (optional). If you grant contacts access, you can assign a person to a letter key and hold that key to call them. Keyvy reads your contact list so you can choose who to assign, and stores only the name and number of the people you pick, on the device. If you also grant phone access, holding the key places the call directly.
+
+  One picture of your screen (optional). Some phones do not let apps blur the wallpaper behind the app drawer. On those phones, Keyvy can ask your permission to capture the screen: it hides its own interface so only the wallpaper is visible, records a single frame, and stops immediately. That image is saved on your device and used for one purpose — to draw a blurred backdrop behind the app grid. It is never transmitted. Turning the feature off in Settings deletes it. Your phone shows its own recording indicator while this happens, and it lasts a second or two.
+
+  Your wallpaper's colours. Keyvy reads the dominant colours of your wallpaper (an Android feature that requires no permission) to tint the blur when no capture is available.
+
+  What Keyvy stores, and where
+
+  Your settings are stored on your device, in Keyvy's own private storage: your theme and accent, keyboard and input mode, pinned dock apps, key shortcuts, hidden apps, recently used apps, widget layout, and the captured wallpaper image if you enabled that.
+
+  If you upgraded from an earlier version of Keyvy, your existing settings were read from the old version's storage on first launch so you would not lose them.
+
+  Uninstalling Keyvy removes all of it.
+
+  What leaves your phone
+
+  Nothing that Keyvy sends. Some things you ask for are handed to another app, and what happens next is that app's business, under its own privacy policy:
+
+  - Searching the web from the search bar opens your browser with your search term. The term goes to your browser and its search engine.
+  - Calling a contact hands the number to your phone app.
+  - Opening an app launches that app.
+  - Icon packs are other apps you have installed; Keyvy reads the icons they provide.
+
+  Permissions Keyvy requests
+
+  ┌────────────────────────┬──────────────────────────────────────────────────────┐
+  │       Permission       │                         Why                          │
+  ├────────────────────────┼──────────────────────────────────────────────────────┤
+  │ Notification access    │ Show and reply to notifications on the home screen   │
+  ├────────────────────────┼──────────────────────────────────────────────────────┤
+  │ Contacts               │ Assign people to key shortcuts                       │
+  ├────────────────────────┼──────────────────────────────────────────────────────┤
+  │ Phone                  │ Place a call from a key shortcut                     │
+  ├────────────────────────┼──────────────────────────────────────────────────────┤
+  │ Screen capture (per    │ Take one picture of the wallpaper to blur it         │
+  │ use)                   │                                                      │
+  ├────────────────────────┼──────────────────────────────────────────────────────┤
+  │ Foreground service     │ Required by Android to perform that capture          │
+  ├────────────────────────┼──────────────────────────────────────────────────────┤
+  │ Vibration              │ Haptic feedback on keys                              │
+  ├────────────────────────┼──────────────────────────────────────────────────────┤
+  │ Expand status bar      │ Swipe down on the home screen to open the            │
+  │                        │ notification shade                                   │
+  └────────────────────────┴──────────────────────────────────────────────────────┘
+
+Every optional permission can be refused, and Keyvy works without it. You can withdraw any of them at any time in your phone's Settings.
+
+Deleting your data
+
+There is no data held anywhere but your phone, so there is nothing to request or erase from us. To remove everything: turn off the wallpaper blur to delete the captured image, clear Keyvy's storage in your phone's app settings, or uninstall Keyvy.
+
+Children
+
+Keyvy is a general-purpose launcher. It does not collect personal information from anyone, including children.
+
+Changes
+
+If this policy changes, the date at the top changes with it. Material changes will be noted in the app's release notes.
+
+Contact
+hemang@duck.com
